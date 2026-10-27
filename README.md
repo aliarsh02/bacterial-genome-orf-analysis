@@ -1,4 +1,4 @@
-# Python analysis of bacterial genome: Staphylococcus Condimenti
+Python-based analysis of a bacterial genome to identify potential open reading frames on both strands, translate protein sequences, calculate molecular masses, and compare selected proteins using NCBI BLAST
 
 INTRODUCTION
 

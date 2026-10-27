@@ -1,4 +1,4 @@
-# bioinformatics
+# Python analysis of bacterial genome: Staphylococcus Condimenti
 
 INTRODUCTION
 
